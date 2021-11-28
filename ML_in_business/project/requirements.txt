@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+wordcloud
+sklearn
+pickleshare==0.7.5
+flask
+dill
